@@ -1,16 +1,36 @@
-## Hi there 👋
+👤 About Me:
 
+🧑‍💼 Name: Leavinish Balasubramaniam
 
-**Leavinish/Leavinish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏢 Currently working at Universiti Teknologi Malaysia (UTM) as a contract staff (Pembantu Tadbir N1 - PSH)
 
-Here are some ideas to get you started:
+🎓 First-year Computer Science student, majoring in Network and Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💻 From a non-Computer Science background, but passionate about learning and exploring tech
+
+🌱 Love discovering how technology, especially cybersecurity and networking, impacts the world
+
+📍 Personal Details:
+
+📍 Location: Johor Bahru
+
+💍 Status: Single
+
+🎯 Skills & Traits:
+
+⏱️ Good at time management and multitasking (balancing work + studies)
+
+🤝 Motivated, curious, and always eager to grow
+
+🧠 Enjoys learning through both academic and hands-on experience
+
+🎨 Hobbies & Interests:
+
+🌿 Gardening
+
+🐟 Keeping pet fish
+
+🧹 Cleaning and organizing my space
+
+🍳 Cooking new dishes and experimenting in the kitchen
 
