@@ -14,6 +14,9 @@ src="https://img.shields.io/github/followers/Leavinish?logo=github&style=for-the
 ### Skills
 
 ### Socials
+https://www.linkedin.com/in/leavinish-balasubramaniam-0aa006202/
+
+
 
 ### Badges<b>My GitHub Stats</b>
 <a href="http://www.github.com/Leavinish"><img src="https://github-readme-stats.vercel.app/api?username=Leavinish&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Leavinish's GitHub stats" /></a>
