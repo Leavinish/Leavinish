@@ -11,8 +11,7 @@ Computer Sceince Student at Universiti Teknologi Malaysia
 ## 🛠️ Tools & Skills
 
 <p align="left">
-  <img src="https://img.icons8.com/color/40/wix.png" alt="Wix" style="margin-right:10px;" />
-  </a>
+<a href="https://wix.com" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" style="max-width: 100%;"></a>
   <a href="https://www.figma.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/40/figma.png" alt="Figma" style="margin-right:10px;" />
   </a>
@@ -29,8 +28,6 @@ Computer Sceince Student at Universiti Teknologi Malaysia
     <img src="https://img.icons8.com/color/40/canva.png" alt="Canva" />
   </a>
 </p>
-
-
 
 
 ### 💼 Career Journey
@@ -51,7 +48,7 @@ Since 2024, Leavinish has been working as an Administrative Assistant at UTM Int
 
 
 
-[![Wix](https://img.icons8.com/ios-filled/30/autocad.png)](https://http://autodesk.com/products/autocad/overview)
+
 
 
 
