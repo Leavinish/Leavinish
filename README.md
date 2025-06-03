@@ -28,9 +28,8 @@ Since 2024, Leavinish has been working as an Administrative Assistant at UTM Int
 
 
 
-### Socials
-[![Website Icon](https://img.icons8.com/ios-filled/24/link.png)](https://[your-website-link.com](https://www.wix.com/)) [![Website Icon](https://img.icons8.com/ios-filled/24/link.png)](https://[your-website-link.com](https://www.autodesk.com/products/autocad/overview))
-[![Projects](https://img.icons8.com/ios-filled/50/code.png)](https://your-projects-page-link.com)
+[![Wix](https://img.icons8.com/ios-filled/30/autocad.png)](https://http://autodesk.com/products/autocad/overview)
+
 
 
 
