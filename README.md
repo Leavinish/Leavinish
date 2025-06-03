@@ -8,8 +8,7 @@ Computer Sceince Student at Universiti Teknologi Malaysia
 * ✉️  You can contact me at Leavinsih8@gmail.com
 * 📍  This profile more to my assemsment updates
 
-<a href="https://www.github.com/Leavinish" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Leavinish?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 
 ### 💼 Career Journey
 
@@ -27,11 +26,10 @@ In 2023, Leavinish joined 99 Speedmart as a Branch Supervisor. He managed the re
 Since 2024, Leavinish has been working as an Administrative Assistant at UTM International. He supports the International Student Scholar and Services department by helping students renew their visas, delivering iKad cards, and handling inquiries via face-to-face meetings, WhatsApp, and email. He also prepares important documents like personal bonds and letters for the Immigration Department and EMGS, and troubleshoots issues with the QMS system at the service counter.
 
 
-### Skills
-https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg
+
 
 ### Socials
-https://www.linkedin.com/in/leavinish-balasubramaniam-0aa006202/
+
 
 
 
