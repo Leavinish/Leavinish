@@ -8,6 +8,29 @@ Computer Sceince Student at Universiti Teknologi Malaysia
 * ✉️  You can contact me at Leavinsih8@gmail.com
 * 📍  This profile more to my assemsment updates
 
+## 🛠️ Tools & Skills
+
+<p align="left">
+  <img src="https://img.icons8.com/color/40/wix.png" alt="Wix" style="margin-right:10px;" />
+  </a>
+  <a href="https://www.figma.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/40/figma.png" alt="Figma" style="margin-right:10px;" />
+  </a>
+  <a href="https://lightroom.adobe.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/40/adobe-lightroom.png" alt="Lightroom" style="margin-right:10px;" />
+  </a>
+  <a href="https://visily.ai" target="_blank" rel="noopener noreferrer">
+    <img src="https://app.visily.ai/favicon.ico" width="40" style="margin-right:10px;" alt="Visily" />
+  </a>
+  <a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/40/autocad.png" alt="AutoCAD" style="margin-right:10px;" />
+  </a>
+  <a href="https://www.canva.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/40/canva.png" alt="Canva" />
+  </a>
+</p>
+
+
 
 
 ### 💼 Career Journey
