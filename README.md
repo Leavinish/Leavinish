@@ -1,62 +1,72 @@
+<h1 align="center">Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/> I'm Leavinish</h1>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Leavinish
-====================================================================================================================================
+<p align="center">
+🎓 Computer Science Student @ Universiti Teknologi Malaysia  
+📍 Based in Johor, Malaysia  
+📫 Reach me at: <a href="mailto:leavinsih8@gmail.com">leavinsih8@gmail.com</a>  
+🗂️ This GitHub profile is mainly used for sharing assessment projects and learning updates
+</p>
 
-Computer Sceince Student at Universiti Teknologi Malaysia
---------------------------------------------------
-* 🌍  Johorean
-* ✉️  You can contact me at Leavinsih8@gmail.com
-* 📍  This profile more to my assemsment updates
+---
 
 ## 🛠️ Tools & Skills
 
 <p align="left">
-<a href="https://wix.com" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" style="max-width: 100%;"></a>
-  <a href="https://www.figma.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/40/figma.png" alt="Figma" style="margin-right:10px;" />
+  <a href="https://www.figma.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/figma.png" alt="Figma" />
   </a>
-  <a href="https://lightroom.adobe.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/40/adobe-lightroom.png" alt="Lightroom" style="margin-right:10px;" />
+  <a href="https://lightroom.adobe.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/adobe-lightroom.png" alt="Lightroom" />
   </a>
-  <a href="https://visily.ai" target="_blank" rel="noopener noreferrer">
-    <img src="https://app.visily.ai/favicon.ico" width="40" style="margin-right:10px;" alt="Visily" />
+  <a href="https://visily.ai" target="_blank">
+    <img src="https://app.visily.ai/favicon.ico" width="48" alt="Visily" />
   </a>
-  <a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/40/autocad.png" alt="AutoCAD" style="margin-right:10px;" />
+  <a href="https://www.autodesk.com/products/autocad/overview" target="_blank">
+    <img src="https://img.icons8.com/color/48/autocad.png" alt="AutoCAD" />
   </a>
-  <a href="https://www.canva.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/40/canva.png" alt="Canva" />
+  <a href="https://www.canva.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/canva.png" alt="Canva" />
+  </a>
+  <a href="https://wix.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="48" alt="Wix" />
   </a>
 </p>
 
+---
 
-### 💼 Career Journey
+## 💼 Career Journey
 
+### 🏢 2024–Present – Admin Assistant @ UTM International  
+Supporting the International Student Scholar and Services team. I assist with visa renewals, iKad delivery, and document preparation for EMGS and the Immigration Department. I also troubleshoot issues at the student service counter.
 
-🏢 2024–Present – Admin Assistant @ UTM International
-Since 2024, I’ve been working as an Administrative Assistant at UTM International. I support the International Student Scholar and Services department by assisting students with visa renewals, delivering iKad cards, and responding to inquiries through face-to-face interactions, WhatsApp, and email. I also prepare essential documents like personal bonds and official letters for the Immigration Department and EMGS, and I help troubleshoot issues with the QMS system at the service counter.
+### 🏪 2023 – Branch Supervisor @ 99 Speedmart  
+Oversaw store operations including stock receiving, returns, cleanliness, and pricing. I managed the outlet during the absence of the branch manager and handled daily transactions.
 
-🏪 2023 – Branch Supervisor @ 99 Speedmart
-In 2023, I joined 99 Speedmart as a Branch Supervisor. I was responsible for handling goods receiving and returns, maintaining store cleanliness and safety, and ensuring proper pricing and labeling of products. I also oversaw the outlet in the absence of the manager and handled daily cash flow at the counters.
+### 🧠 2022 – AI Data Annotator @ Pactera Edge  
+Annotated and validated AI training data using CVAT software for Microsoft Edge AI. Improved command recognition and supported testing/training efficiency.
 
-🧠 2022 – AI Data Annotator @ Pactera Edge
-In 2022, I worked as an AI Data Annotator at Pactera Edge for a project in collaboration with Microsoft (Edge AI). My main tasks included testing and training AI systems using CVAT software. I provided accurate data annotations and contributed to improving AI command recognition and overall system performance.
+### 🛠️ 2021 – Internship @ Matrics Concepts  
+Worked on-site supervising construction progress, interpreting architectural plans, managing material handling, and coordinating site workers.
 
-🛠️ 2021 – Internship @ Matrics Concepts
-During my internship at Matrics Concepts in 2021, I was actively involved in site supervision. I monitored the progress of on-site construction, provided updates to my superiors, and read architectural and structural plans to ensure that all work was carried out accurately. I also received construction materials and managed site workers to make sure everything ran smoothly.
+---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <a href="https://github.com/Leavinish">
+    <img src="https://github-readme-stats.vercel.app/api?username=Leavinish&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Leavinish's GitHub Stats" />
+  </a>
+</p>
 
+---
 
+## 🤝 Let's Connect
 
-
-
-
-
-
-### Badges<b>My GitHub Stats</b>
-<a href="http://www.github.com/Leavinish"><img src="https://github-readme-stats.vercel.app/api?username=Leavinish&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Leavinish's GitHub stats" /></a>
-
-
-
-
+<p align="left">
+  <a href="mailto:leavinsih8@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="40" />
+  </a>
+  <a href="https://www.instagram.com/_leavinish/" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" width="40" />
+  </a>
+</p>
